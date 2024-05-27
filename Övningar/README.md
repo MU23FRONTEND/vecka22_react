@@ -15,4 +15,7 @@
 Återvänd till övningen [Bokhandeln](https://github.com/MU23FRONTEND/vecka19_react/tree/main/%C3%96vningar/state%C3%B6vningar) som vi kodade upp för ett par veckor sedan. Implementera global statehantering genom att skapa en store som håller koll på antalet böcker som användaren lägger till i sin cart, istället för att ha en vanlig tillståndsvariabel som är skapad med useStae i din App.tsx, och som du sedan skickar som props.
 
 # Övning 3 - Zustand
+Bygg om en annan valfri övning som vi tittat på och implementera global statehantering.
+
+# Övning 4 - Zustand
 Skapa upp en valfri applikation som använder sig av Zustand. Använd dig gärna av ett axios.get-anrop som hämtar data och sparar ner den i en array i din store. Importera sedan datan i andra komponenter och använd den på något kul sätt.
