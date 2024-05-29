@@ -5,8 +5,9 @@ Hallå där studenter! Under kursens sista undervisningsvecka kommer vi att foku
 
 ## Videor
 
-### Liveinspelningar
-Inga filmer publicerade ännu
+### Inspelningar
+- [Zustand del 1](https://vimeo.com/951418836/c67d79af02?share=copy)
+- [Zustand del 2](https://vimeo.com/951418811/b591a8c40e?share=copy)
 
 ### YouTube
 - [Global statehantering med Zustand](https://www.youtube.com/watch?v=-Y8brhQKvtA)
