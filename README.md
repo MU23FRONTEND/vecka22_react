@@ -1,4 +1,4 @@
-# Vecka 20 - Tema: Fördjupning
+# Vecka 22 - Tema: Fördjupning
 
 ## Meddelande
 Hallå där studenter! Under kursens sista undervisningsvecka kommer vi att fokusera på att fördjupa oss i några av de aspekter som vi redan vidrört under kursen : statehantering och HTTP-metoder. Gällande statehantering så kommer vi att titta på Zustand som är ett alternativ till useState-hooken, och som kommer att låta oss implementera global statehantering där vi slipper skicka våra tillståndsvariabler och setter-funktioner kors och tvärs över vår applikation. Vad gäller HTTP-metoder så kommer vi att bredda vår horisont bortom GET- och POST-anrop för att använda hela skalan av metoder som kommer med axios-biblioteket. 
